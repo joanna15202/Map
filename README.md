@@ -8,5 +8,5 @@ This is world map demonstrating below two features:
 Project is created with:
 * Python 3.9
 
-## Sample
-https://drive.google.com/file/d/1RbX30V5A5jEslMUgpYmWKW3ROXnxLAIp/view?usp=sharing
+## Display
+http://joannawang.c1.biz
