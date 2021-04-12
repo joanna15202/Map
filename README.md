@@ -7,6 +7,7 @@ This is world map demonstrating below two features:
 ## Technologies
 Project is created with:
 * Python 3.9
+* HTML
 
 ## Instructions
 * Select layers to populate from the upper right corner.
