@@ -10,7 +10,7 @@ Project is created with:
 * HTML
 
 ## Instructions
-* Select layers to populate from the upper right corner.
+* From the upper right corner, choose layers "Volcanoes" or "Population".
 
 ## Display
 http://joannawang.c1.biz
