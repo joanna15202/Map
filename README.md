@@ -8,5 +8,8 @@ This is world map demonstrating below two features:
 Project is created with:
 * Python 3.9
 
+## Instructions
+* Select layers to populate from the upper right corner.
+
 ## Display
 http://joannawang.c1.biz
